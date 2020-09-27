@@ -32,3 +32,5 @@ Howdy! I'm **Sean Miller**, a Computer Science Major from Texas A&M University.
 - 🤔 I’m looking for help with gaining relevant experience
 - 💬 Ask me anything!
 - 😄 Pronouns: He/Him
+
+Profile template from @lizheming
