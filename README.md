@@ -27,7 +27,7 @@ Howdy! I'm **Sean Miller**, a Computer Science Major from Texas A&M University.
 ## :trophy: Some Final Things
 
 - 🔭 I’m currently working on my degree
-- 🌱 I’m currently learning databases
+- 🌱 I’m currently learning android development
 - 👯 I’m looking to collaborate on interesting projects!
 - 🤔 I’m looking for help with gaining relevant experience
 - 💬 Ask me anything!
