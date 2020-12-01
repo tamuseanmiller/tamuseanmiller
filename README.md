@@ -16,9 +16,9 @@ Howdy! I'm **Sean Miller**, a Computer Science Major from Texas A&M University.
 - [**Unity Widgets**](https://play.google.com/store/apps/details?id=com.bedefined.unitywidgets&hl=en_US): :alarm_clock: Widget Personalization app that combines several of the top widget designers
 ## 📚 Tech Articles and Talks 
 
-📖 **[Pointers and References](https://unicorn-utterances.com/posts/pointers-and-references-cpp/)**. 
+📖 **[Pointers and References](https://unicorn-utterances.com/posts/pointers-and-references-cpp/)**
 
-:memo: [**Virtual Memory**](https://unicorn-utterances.com/posts/virtual-memory-overview/). 
+:memo: [**Virtual Memory**](https://unicorn-utterances.com/posts/virtual-memory-overview/)
  
 ## 💻 Open Source Work Stats
 
