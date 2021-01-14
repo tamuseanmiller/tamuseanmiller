@@ -13,6 +13,7 @@ Howdy! I'm **Sean Miller**, a Computer Science Major from Texas A&M University.
 - [**Alpaca_Dashboard**](https://github.com/tamuseanmiller/alpaca_dashboard): :money_with_wings: Android app to view and manage all of your holdings from your brokerage
 - [**Unicorn-Utterances**](https://unicorn-utterances.com/unicorns/seanmiller): 🦄 Learning programming from magically majestic words
 - [**Alpaca-Stock-Trading-Bot**](https://github.com/tamuseanmiller/alpaca-stock-trading-bot): :chart_with_upwards_trend: Q-Learning and Sentiment Analysis Stock Trade Bot Powered by Alpaca
+- [**Politistats**](https://github.com/tamuseanmiller/Politistats): 📰 Unbiased Political Analytics for the Modern Voter.
 - [**Unity Widgets**](https://play.google.com/store/apps/details?id=com.bedefined.unitywidgets&hl=en_US): :alarm_clock: Widget Personalization app that combines several of the top widget designers
 - [**Cabin Road Photos**](https://github.com/tamuseanmiller/Cabin-Road-Photos): 🌲 Android Slideshow Photo Viewer Google Home Hub like Application
 
