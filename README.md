@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/tamuseanmiller) [![](https://img.shields.io/badge/Check%20out%20my-Portfolio-red)](https://sean.millerfamily.tech/)
 
-Howdy! I'm **Sean Miller**, a Computer Science Major from Texas A&M University. 
+Howdy! I'm **Sean Miller**, a Software Engineer at Cisco with my Computer Science Major from Texas A&M University. 
 
 ## 📫 Contact Me on Social Media
 
@@ -22,16 +22,11 @@ Howdy! I'm **Sean Miller**, a Computer Science Major from Texas A&M University.
 📖 **[Pointers and References](https://unicorn-utterances.com/posts/pointers-and-references-cpp/)**
 
 :memo: [**Virtual Memory**](https://unicorn-utterances.com/posts/virtual-memory-overview/)
- 
-## 💻 Open Source Work Stats
-
-
-![Sean Miller's Github stats](https://github-readme-stats.vercel.app/api?username=tamuseanmiller&show_icons=true)
 
 ## :trophy: Some Final Things
 
-- 🔭 I’m currently working on my degree
-- 🌱 I’m currently learning android development
+- 🔭 I’m working at Cisco
+- 🌱 I'm currently developing in mostly C++ and Kotlin
 - 👯 I’m looking to collaborate on interesting projects!
 - 🤔 I’m looking for help with gaining relevant experience
 - 💬 Ask me anything!
