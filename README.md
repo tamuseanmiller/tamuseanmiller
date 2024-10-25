@@ -11,7 +11,7 @@ Howdy! I'm **Sean Miller**, a Software Engineer at Cisco with my Computer Scienc
 ## 💡 Projects with My Work
 
 - [**Alpaca_Dashboard**](https://github.com/tamuseanmiller/alpaca_dashboard): :money_with_wings: Android app to view and manage all of your holdings from your brokerage
-- [**Playful Programming**]([https://unicorn-utterances.com/unicorns/seanmiller](https://playfulprogramming.com/people/seanmiller)): 🦄 Learning programming from magically majestic words
+- [**Playful Programming**](https://playfulprogramming.com/people/seanmiller): 🦄 Learning programming from magically majestic words
 - [**Alpaca-Stock-Trading-Bot**](https://github.com/tamuseanmiller/alpaca-stock-trading-bot): :chart_with_upwards_trend: Q-Learning and Sentiment Analysis Stock Trade Bot Powered by Alpaca
 - [**Politistats**](https://github.com/tamuseanmiller/Politistats): 📰 Unbiased Political Analytics for the Modern Voter.
 - [**Unity Widgets**](https://play.google.com/store/apps/details?id=com.bedefined.unitywidgets&hl=en_US): :alarm_clock: Widget Personalization app that combines several of the top widget designers
